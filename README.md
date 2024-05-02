@@ -1,6 +1,6 @@
 ### Soohyun's Github 👋
 
-<div style="display: flex, justify-content: center">
+<div style="display: flex; justify-content: center">
   <a href="https://github.com/Y00nS00Hyun">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=ambient_gradient&hide_progress=true" alt="Top Langs" width="310" height="150"/>
   </a>
