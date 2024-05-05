@@ -51,6 +51,6 @@
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
   <br>
   <br>
-  <img src="https://i.pinimg.com/originals/2a/4b/09/2a4b09344cbeb3c9b902b0801761125a.gif" width="6%">
+  <img src="https://i.pinimg.com/originals/2a/4b/09/2a4b09344cbeb3c9b902b0801761125a.gif" width="7%">
 
 </div>
