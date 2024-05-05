@@ -9,12 +9,14 @@
   <br> 
   
   <img src="https://i.pinimg.com/originals/9a/d7/a7/9ad7a730a6dfb88f5a2dc081f6be48ab.gif" width="10%">
+  <img src="https://i.pinimg.com/originals/9a/d7/a7/9ad7a730a6dfb88f5a2dc081f6be48ab.gif" width="10%">
   <a href="https://github.com/Y00nS00Hyun">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=rose&hide_progress=true" alt="Top Langs" width="28%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=rose&username=Y00nS00Hyun" width="29%"/>
   </a>
+    <img src="https://i.pinimg.com/originals/9a/d7/a7/9ad7a730a6dfb88f5a2dc081f6be48ab.gif" width="10%">
     <img src="https://i.pinimg.com/originals/9a/d7/a7/9ad7a730a6dfb88f5a2dc081f6be48ab.gif" width="10%">
   <br>
   
@@ -28,7 +30,11 @@
   <br>
   
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
+  <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
+  <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <img src="https://i.pinimg.com/originals/06/a4/02/06a40213ba023729f4957e9882cb4492.gif" width="12%">
+  <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
+  <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <br>
 
@@ -42,7 +48,11 @@
 
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
+  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
+  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
   <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="15%">
+  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
+  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
 </div>
