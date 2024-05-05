@@ -41,7 +41,7 @@
   
   <img src="https://i.pinimg.com/originals/74/5f/56/745f56f8adbde8bdea1f89b2f8400d67.gif" width="14%">
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Y00ns00hyun" width="395"/>
+  <img src="https://render.gitanimals.org/farms/Y00ns00hyun" width="40%"/>
   </a>
   <img src="https://i.pinimg.com/originals/74/5f/56/745f56f8adbde8bdea1f89b2f8400d67.gif" width="14%">
   <br>
