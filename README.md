@@ -1,6 +1,8 @@
 <div align="center">
-
-  <br>
+<div>
+  <img src="https://i.pinimg.com/564x/4d/6f/e5/4d6fe5e1ed1f0f04ee828626bfbe2e02.jpg" width="8%">
+  <p>Soohyun's Github</p>
+</div>
   <img src="https://i.pinimg.com/originals/fa/14/27/fa1427d280b431afea5118a2b198f35f.gif" width="30%">
   <img src="https://i.pinimg.com/originals/78/53/69/785369595afb826789e22f0167de114a.gif" width="9%">
   <img src="https://i.pinimg.com/originals/fa/14/27/fa1427d280b431afea5118a2b198f35f.gif" width="30%">
@@ -22,15 +24,7 @@
 
   
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
   <img src="https://i.pinimg.com/originals/d5/df/64/d5df64dd65c343cedaadfa17d7d86782.gif" width="12%">
-  <br>
-  <br>
-  <br>
-  <br>
   <br>
   
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
