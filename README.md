@@ -28,18 +28,16 @@
   <br>
   
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
-  <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <img src="https://i.pinimg.com/originals/06/a4/02/06a40213ba023729f4957e9882cb4492.gif" width="12%">
-  <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <br>
 
   
-  <img src="https://i.pinimg.com/originals/74/5f/56/745f56f8adbde8bdea1f89b2f8400d67.gif" width="14%">
+  <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="18%">
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/Y00ns00hyun" width="40%"/>
   </a>
-  <img src="https://i.pinimg.com/originals/74/5f/56/745f56f8adbde8bdea1f89b2f8400d67.gif" width="14%">
+  <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="18%">
   <br>
 
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
