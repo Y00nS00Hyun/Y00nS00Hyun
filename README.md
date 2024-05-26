@@ -32,7 +32,7 @@
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <br>
   
-  <img src="https://64.media.tumblr.com/74b7731c671cf9339fc872eb8154747c/ea7d2207a691971c-72/s400x600/de189630a93412d2ed0ec051fb8358c5f30af4f9.gifv" width="43%">
+  <img src="https://64.media.tumblr.com/f735a7386de5da40942bceee53a99010/ea7d2207a691971c-44/s500x750/4a9aa6cb8a6e6d91c25b28f7f1a1d5deadaf2107.gifv" width="43%">
   <br>
 
   
