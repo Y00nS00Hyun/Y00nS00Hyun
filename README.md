@@ -10,10 +10,10 @@
   
   <img src="https://i.pinimg.com/originals/9a/d7/a7/9ad7a730a6dfb88f5a2dc081f6be48ab.gif" width="10%">
   <a href="https://github.com/Y00nS00Hyun">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=rose&hide_progress=true" alt="Top Langs" width="28%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=rose&hide_progress=true" alt="Top Langs" width="30%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=rose&username=Y00nS00Hyun" width="29%"/>
+    <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=rose&username=Y00nS00Hyun" width="30%"/>
   </a>
     <img src="https://i.pinimg.com/originals/9a/d7/a7/9ad7a730a6dfb88f5a2dc081f6be48ab.gif" width="10%">
   <br>
@@ -32,13 +32,13 @@
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <br>
   
-  <img src="https://64.media.tumblr.com/74b7731c671cf9339fc872eb8154747c/ea7d2207a691971c-72/s400x600/de189630a93412d2ed0ec051fb8358c5f30af4f9.gifv" width="40%">
+  <img src="https://64.media.tumblr.com/74b7731c671cf9339fc872eb8154747c/ea7d2207a691971c-72/s400x600/de189630a93412d2ed0ec051fb8358c5f30af4f9.gifv" width="43%">
   <br>
 
   
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="18%">
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Y00ns00hyun" width="40%"/>
+  <img src="https://render.gitanimals.org/farms/Y00ns00hyun" width="43%"/>
   </a>
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="18%">
   <br>
