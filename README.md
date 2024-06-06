@@ -22,11 +22,15 @@
   <img src="https://i.pinimg.com/originals/b1/6d/0b/b16d0bf1b1202c7c990953457da50cb5.gif" width="16%">
   <img src="https://i.pinimg.com/originals/91/a0/44/91a044bd4324cfd548001dd397a1aa0d.gif" width="20%">
 
+  <br>
+  <br>
+  <br>
+<div align = "center">
+	<details>
+		<summary> 💛 </summary>
   
   <br>
-  <img src="https://i.pinimg.com/originals/d5/df/64/d5df64dd65c343cedaadfa17d7d86782.gif" width="12%">
   <br>
-
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <img src="https://i.pinimg.com/originals/06/a4/02/06a40213ba023729f4957e9882cb4492.gif" width="12%">
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
@@ -48,5 +52,8 @@
   <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="16%">
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
-
+	</details>
 </div>
+
+  
+  
