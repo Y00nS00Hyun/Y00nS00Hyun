@@ -10,7 +10,7 @@
   
   <img src="https://i.pinimg.com/originals/9a/d7/a7/9ad7a730a6dfb88f5a2dc081f6be48ab.gif" width="10%">
   <a href="https://github.com/Y00nS00Hyun">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=rose&hide_progress=true" alt="Top Langs" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=rose&hide_progress=true" alt="Top Langs" width="32%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=rose&username=Y00nS00Hyun" width="30%"/>
