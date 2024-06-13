@@ -36,22 +36,22 @@
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="8%">
   <br>
   
-  <img src="https://64.media.tumblr.com/f735a7386de5da40942bceee53a99010/ea7d2207a691971c-44/s500x750/4a9aa6cb8a6e6d91c25b28f7f1a1d5deadaf2107.gifv" width="43%">
+  <img src="https://64.media.tumblr.com/f735a7386de5da40942bceee53a99010/ea7d2207a691971c-44/s500x750/4a9aa6cb8a6e6d91c25b28f7f1a1d5deadaf2107.gifv" width="45%">
   <br>
 
   
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="18%">
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Y00ns00hyun" width="43%"/>
+  <img src="https://render.gitanimals.org/farms/Y00ns00hyun" width="45%"/>
   </a>
   <img src="https://preview.redd.it/74oma50tfp231.gif?width=252&auto=webp&s=8ca6f3901a78af04ddcbced04e5a2b98327f5f69" width="18%">
   <br>
 
-  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
-  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
+  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="7%">
+  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="7%">
   <img src="https://i.pinimg.com/originals/d1/42/0f/d1420f136c09bc255e88c105b680099f.gif" width="16%">
-  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
-  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="6%">
+  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="7%">
+  <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="7%">
 	</details>
 </div>
 
