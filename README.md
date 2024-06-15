@@ -1,4 +1,6 @@
-<div align="center">
+<div align = "center">
+	<details>
+		<summary> 🩷 </summary>
 <div>
   <img src="https://i.pinimg.com/564x/4d/6f/e5/4d6fe5e1ed1f0f04ee828626bfbe2e02.jpg" width="8%">
   <p>Soohyun's Github</p>
@@ -25,7 +27,7 @@
   <br>
   <br>
   <br>
-<div align = "center">
+</details>
 	<details>
 		<summary> 💛 </summary>
   
@@ -54,6 +56,6 @@
   <img src="https://pa1.aminoapps.com/7635/d7b76f992e242c7d9867226d263c1be3748b7850r1-200-200_00.gif" width="7%">
 	</details>
 </div>
-
+</details>
   
   
