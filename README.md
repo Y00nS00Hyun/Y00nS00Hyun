@@ -1,6 +1,5 @@
 <div align = "center">
-	<details>
-		<summary> 🩷 </summary>
+
 <div>
   <img src="https://i.pinimg.com/564x/4d/6f/e5/4d6fe5e1ed1f0f04ee828626bfbe2e02.jpg" width="8%">
   <p>Soohyun's Github</p>
