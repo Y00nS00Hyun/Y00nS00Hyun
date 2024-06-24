@@ -1,30 +1,39 @@
 <div align = "center">
-
-
-  <img src="https://i.pinimg.com/originals/41/0a/49/410a492760679d3b0c7846f2aba7586c.gif" width="16%">
-  <img src="https://storage.ko-fi.com/cdn/useruploads/post/848a13ce-3c2b-4c39-8f34-69bdc4c39d90_blueskystudy.png" width="8%">
-  <img src="https://i.pinimg.com/originals/41/0a/49/410a492760679d3b0c7846f2aba7586c.gif" width="16%">
-  <br>
+  <img src="https://i.pinimg.com/564x/63/e9/90/63e9906f220a4462968b07110a5d6cb5.jpg" width="7%">
   <br>
   <p>Soohyun's Github</p>
+  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
 
+
+  
+  <br>
+    <img src="https://i.pinimg.com/originals/e7/23/01/e723016206a31ce4064bd487cb929bbb.gif" width="16%">
   <a href="https://github.com/Y00nS00Hyun">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=rose&hide_progress=true" alt="Top Langs" width="32%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=default&hide_progress=true" alt="Top Langs" width="31%"/>
   </a>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=rose&username=Y00nS00Hyun" width="29%"/>
+    <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=default&username=Y00nS00Hyun" width="26%"/>
   </a>
-    
+  <img src="https://file3.instiz.net/data/file3/2018/02/12/2/6/c/26cd8673ac4f25581119aa330013163f.gif" width="21%">
+  
   <br>
-  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="13%">
-  <img src="https://i.pinimg.com/564x/6a/9d/3b/6a9d3b96e4062bcb0ab5788b56da39c0.jpg" width="18%">
-  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="13%">
-  <br>
+  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
+
+  
   <br>
   <br>
 </details>
 	<details>
-		<summary> 💛 </summary>
+		<summary> 🩵 </summary>
   
   <br>
   <br>
