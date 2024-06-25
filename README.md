@@ -1,5 +1,7 @@
 <div align = "center">
+  <img src="https://i.pinimg.com/originals/9c/14/a8/9c14a8074b0c196c792e1337b00e7766.gif" width="5%">
   <img src="https://i.pinimg.com/564x/6e/53/6a/6e536a649661f896f70cdf7dc849f3a5.jpg" width="9%">
+  <img src="https://i.pinimg.com/originals/52/a5/aa/52a5aa323480109f7c45204f85b942c8.gif" width="5%">
   <br>
   <p>Soohyun's Github</p>
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
@@ -10,12 +12,10 @@
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
   
   <br>
-    <img src="https://i.pinimg.com/originals/9c/14/a8/9c14a8074b0c196c792e1337b00e7766.gif" width="11%">
     <img src="https://i.pinimg.com/originals/e7/23/01/e723016206a31ce4064bd487cb929bbb.gif" width="18%">
   <a href="https://github.com/Y00nS00Hyun">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=default&hide_progress=true" alt="Top Langs" width="35%"/>
   </a>
-  <img src="https://i.pinimg.com/originals/52/a5/aa/52a5aa323480109f7c45204f85b942c8.gif" width="11%">
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=default&username=Y00nS00Hyun" width="30%"/>
