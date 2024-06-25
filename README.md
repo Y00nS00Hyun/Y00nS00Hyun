@@ -20,7 +20,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=default&username=Y00nS00Hyun" width="30%"/>
   </a>
-  <img src="https://file3.instiz.net/data/file3/2018/02/12/2/6/c/26cd8673ac4f25581119aa330013163f.gif" width="24%">
+  <img src="https://file3.instiz.net/data/file3/2018/02/12/2/6/c/26cd8673ac4f25581119aa330013163f.gif" width="23%">
   
   <br>
 
