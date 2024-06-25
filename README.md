@@ -1,7 +1,7 @@
 <div align = "center">
-  <img src="https://i.pinimg.com/originals/9c/14/a8/9c14a8074b0c196c792e1337b00e7766.gif" width="5%">
-  <img src="https://i.pinimg.com/564x/6e/53/6a/6e536a649661f896f70cdf7dc849f3a5.jpg" width="9%">
-  <img src="https://i.pinimg.com/originals/52/a5/aa/52a5aa323480109f7c45204f85b942c8.gif" width="5%">
+  <img src="https://i.pinimg.com/originals/9c/14/a8/9c14a8074b0c196c792e1337b00e7766.gif" width="4%">
+  <img src="https://pbs.twimg.com/media/GQ4b15HbwAMUsV6?format=png&name=small" width="4%">
+  <img src="https://i.pinimg.com/originals/52/a5/aa/52a5aa323480109f7c45204f85b942c8.gif" width="4%">
   <br>
   <p>Soohyun's Github</p>
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
