@@ -8,19 +8,17 @@
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
-  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
-  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
   
   <br>
-    <img src="https://i.pinimg.com/originals/e7/23/01/e723016206a31ce4064bd487cb929bbb.gif" width="18%">
+    <img src="https://i.pinimg.com/originals/e7/23/01/e723016206a31ce4064bd487cb929bbb.gif" width="15%">
   <a href="https://github.com/Y00nS00Hyun">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=default&hide_progress=true" alt="Top Langs" width="35%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=default&hide_progress=true" alt="Top Langs" width="29%"/>
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=default&username=Y00nS00Hyun" width="30%"/>
   </a>
-  <img src="https://file3.instiz.net/data/file3/2018/02/12/2/6/c/26cd8673ac4f25581119aa330013163f.gif" width="23%">
+  <img src="https://file3.instiz.net/data/file3/2018/02/12/2/6/c/26cd8673ac4f25581119aa330013163f.gif" width="24%">
   
   <br>
 
@@ -30,10 +28,10 @@
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
   <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
 
 
   <br>
-  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="7%">
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="7%">
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="7%">
 </details>
