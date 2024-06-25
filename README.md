@@ -4,10 +4,9 @@
   <img src="https://i.pinimg.com/originals/52/a5/aa/52a5aa323480109f7c45204f85b942c8.gif" width="4%">
   <br>
   <p>Soohyun's Github</p>
-  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
-  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
-  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
-  <img src="https://i.pinimg.com/originals/b6/e3/ef/b6e3ef535fc0f404923b5f939d367b9a.gif" width="9%">
+  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="8%">
+  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="8%">
+  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="8%">
   
   <br>
     <img src="https://i.pinimg.com/originals/e7/23/01/e723016206a31ce4064bd487cb929bbb.gif" width="15%">
@@ -32,8 +31,7 @@
 
 
   <br>
-  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="7%">
-  <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="7%">
+
 </details>
 	<details>
 		<summary> 🩵 </summary>
