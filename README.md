@@ -33,8 +33,8 @@
   <br>
 
 </details>
-	<details>
-		<summary> 🩵 </summary>
+
+🩵 
   
   <br>
   <br>
@@ -44,6 +44,6 @@
   </a>
   
 </div>
-</details>
+
   
   
