@@ -55,5 +55,7 @@
   <img src="https://64.media.tumblr.com/67a0f284e9a1a2bdfadd3d58a069e050/af873faf7bc96c00-d1/s640x960/b53ad1809b227dff55ca9af0081e34c5d3286a33.gifv" width="44%">
 
 </details>
+
+ <br>
 </div>  
   
