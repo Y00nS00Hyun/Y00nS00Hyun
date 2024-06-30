@@ -35,29 +35,25 @@
 
 
 </details>
-	<details>
-		<summary> 🩵 </summary>
+
+<details>
+<summary> 🩵 </summary>
   
   <br>
   <br>
-
 
   <img src="https://64.media.tumblr.com/67a0f284e9a1a2bdfadd3d58a069e050/af873faf7bc96c00-d1/s640x960/b53ad1809b227dff55ca9af0081e34c5d3286a33.gifv" width="44%">
 
   <br>
 
   <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Y00nS00Hyun"
-  width="43%"
-/>
-</a>
+  <img src="https://render.gitanimals.org/farms/Y00nS00Hyun" width="43%">
+  </a>
 
   <br>
+  
   <img src="https://64.media.tumblr.com/67a0f284e9a1a2bdfadd3d58a069e050/af873faf7bc96c00-d1/s640x960/b53ad1809b227dff55ca9af0081e34c5d3286a33.gifv" width="44%">
 
-  
-</div>
 </details>
-  
+</div>  
   
