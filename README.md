@@ -1,6 +1,6 @@
 <div align = "center">
   <img src="https://i.pinimg.com/originals/9c/14/a8/9c14a8074b0c196c792e1337b00e7766.gif" width="4%">
-  <img src="https://pbs.twimg.com/media/GQ4b15HbwAMUsV6?format=png&name=small" width="4%">
+  <img src="https://media.tenor.com/IgTAi2ds4w0AAAAi/pixel.gif" width="4%">
   <img src="https://i.pinimg.com/originals/52/a5/aa/52a5aa323480109f7c45204f85b942c8.gif" width="4%">
   <p>Soohyun's Github</p>
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
