@@ -1,6 +1,6 @@
 <div align = "center"> 
   <img src="https://i.pinimg.com/originals/9c/14/a8/9c14a8074b0c196c792e1337b00e7766.gif" width="4%">
-  <img src="https://i.pinimg.com/originals/d3/7d/13/d37d133cdbcc54bb5b54172e75b6c2b2.gif" width="4%">
+  <img src="https://www.rpnation.com/data/avatars/o/74/74558.jpg?1569977892" width="4%">
   <img src="https://i.pinimg.com/originals/52/a5/aa/52a5aa323480109f7c45204f85b942c8.gif" width="4%">
   <br>
   Soohyun's Github
