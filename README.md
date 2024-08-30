@@ -12,8 +12,7 @@
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
   
   <br>
-  
-    <img src="https://i.pinimg.com/originals/e7/23/01/e723016206a31ce4064bd487cb929bbb.gif" width="19%">
+  <img src="https://i.pinimg.com/originals/e7/23/01/e723016206a31ce4064bd487cb929bbb.gif" width="19%">
   <a href="https://github.com/Y00nS00Hyun">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y00nS00Hyun&layout=compact&theme=default&hide_progress=true" alt="Top Langs" width="30%"/>
   </a>
