@@ -1,3 +1,8 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/6e/21/6b/6e216b0ce8669a79ccfdf7fb04113de7.gif" width="202px">
-<div/>
+<div align = "center">
+
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Y00ns00hyun" width="40%"/>
+  </a>
+
+</div>
+  
