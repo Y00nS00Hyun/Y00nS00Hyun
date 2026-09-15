@@ -10,12 +10,8 @@
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
   <br>
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Y00nS00Hyun&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/Y00nS00Hyun"
-    width="600"
-    height="300"
-  />
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Y00nS00Hyun" width="43%">
   </a>
   <br>
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
@@ -25,5 +21,3 @@
 
   
 <div/>
-
-
