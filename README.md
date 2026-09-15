@@ -17,7 +17,7 @@
 |---|---|---|
 | 2025 다학제융합 IoT 가전분야 캡스톤 디자인 | 창의ICT공과대학장상 · 공과대학장상 | 청각장애인 안전알림 웨어러블 (특허 출원) |
 | 오픈소스SW·AI 딥러닝 해커톤 | 우수상 | Fake News Detection (MS-SE TextCNN) |
-| 2025학년도 생성형 AI(Generative AI) 모델 활용 경진대회 | 특별상 | 푸양이 에코 챌린지 |
+| 2025학년도 생성형 AI(Generative AI) 모델 활용 경진대회 | 특별상 | 푸앙이 에코 챌린지 |
 
 ### 🛠 Tech Stack
 - **Frontend**: React, TypeScript, Next.js, Vite
