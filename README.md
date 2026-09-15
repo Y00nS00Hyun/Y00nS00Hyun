@@ -19,17 +19,10 @@
 | 오픈소스SW·AI 딥러닝 해커톤 | 우수상 | Fake News Detection (MS-SE TextCNN) |
 | 교내 공모전 | 특별상 | 푸양이 에코 챌린지 |
 
-### 📁 Key Projects
-- Wi-Fang! — AI 기반 실내 Wi-Fi 신호 예측 및 공유기 배치 추천 (캡스톤, Frontend)
-- Humming Bird — 허밍 입력 기반 AI 음악 생성 서비스 (캡스톤, Frontend)
-- Ieum(이음) — 초기 치매 환자용 AI 기억 아카이빙 도구 (해커톤, Frontend)
-- AEO/GEO 분석 — 호텔 고객사 대상 AI 검색 노출 진단 프로젝트 (카이코어)
-- AI Agent Action Decision Prediction Challenge — 14-class 행동 예측, Macro-F1 0.76
-
 ### 🛠 기술 스택
-Frontend: React, TypeScript, Next.js, Vite
-Backend: FastAPI, Spring Boot, PostgreSQL, Redis
-AI/ML: YOLOv8, YAMNet, Whisper, LangChain, RAG, DQN
+- **Frontend**: React, TypeScript, Next.js, Vite
+- **Backend**: FastAPI, Spring Boot, PostgreSQL, Redis
+- **AI/ML**: YOLOv8, YAMNet, Whisper, LangChain, RAG, DQN
 
 ### 📫 연락처
 GitHub: Y00nS00Hyun
