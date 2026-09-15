@@ -2,9 +2,8 @@
 ### Hi there 👋
 
 ### 👨‍🎓 Introduction
-- Software Engineering, B.S. @ Chung-Ang University (4th year, 2027.02 졸업예정)
-- Intelligent Networking Lab (INL) 학부연구생
-
+- Software Engineering, B.S. @ Chung-Ang University (4th year)
+  
 ### 📌 Experience & Activities
 - **[2024.04 – 2024.10]** Codeit 스프린트 프론트엔드 부트캠프 7기 수료
 - **[2024.09 – 2025.06]** Google Developer Groups (GDG) on Campus Chung-Ang University
