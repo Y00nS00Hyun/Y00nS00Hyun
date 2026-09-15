@@ -15,9 +15,9 @@
 ### 🏆 수상 경력
 | 대회 / 기관 | 수상명 | 비고 |
 |---|---|---|
-| 중앙대학교 | 창의ICT공과대학장상 · 공과대학장상 | 청각장애인 안전알림 웨어러블 (특허 출원) |
+| 2025 다학제융합 IoT 가전분야 캡스톤 디자인 (중앙대학교) | 창의ICT공과대학장상 · 공과대학장상 | 청각장애인 안전알림 웨어러블 (특허 출원) |
 | 오픈소스SW·AI 딥러닝 해커톤 | 우수상 | Fake News Detection (MS-SE TextCNN) |
-| 교내 공모전 | 특별상 | 푸양이 에코 챌린지 |
+| 2025학년도 생성형 AI(Generative AI) 모델 활용 경진대회 | 특별상 | 푸양이 에코 챌린지 |
 
 ### 🛠 기술 스택
 - **Frontend**: React, TypeScript, Next.js, Vite
@@ -27,7 +27,10 @@
 ### 📫 연락처
 GitHub: Y00nS00Hyun
 
-  <div align = "center"> 
+<details>
+<summary>🎨 Soohyun's Github Decoration</summary>
+
+<div align = "center"> 
 
   <img src="https://i.pinimg.com/originals/9c/14/a8/9c14a8074b0c196c792e1337b00e7766.gif" width="4%">
   <img src="https://media.tenor.com/K6yVPBgjkssAAAAM/blue-glitter-love-heart-glittery.gif" width="4%">
@@ -49,5 +52,6 @@ GitHub: Y00nS00Hyun
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
   <img src="https://i.pinimg.com/originals/f9/db/fa/f9dbfaf37b164bcc2a5424e278b572ea.gif" width="9%">
 
-  
-<div/>
+</div>
+
+</details>
