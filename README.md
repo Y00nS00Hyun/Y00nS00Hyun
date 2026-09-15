@@ -28,7 +28,7 @@
 Email: wise_amy@naver.com
   
 <details>
-<summary>🎨 Soohyun's Github</summary>
+<summary>Happy Monkey Family</summary>
 
 <div align = "center"> 
 
