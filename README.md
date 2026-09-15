@@ -1,10 +1,10 @@
 
 ### Hi there 👋
 
-### 👨‍🎓 Introduction
+### Introduction
 - Software Engineering, B.S. @ Chung-Ang University (4th year)
   
-### 📌 Experience & Activities
+### Experience & Activities
 - **[2024.04 – 2024.10]** Codeit 스프린트 프론트엔드 부트캠프 7기 수료
 - **[2024.09 – 2025.06]** Google Developer Groups (GDG) on Campus Chung-Ang University
 - **[2025.03 – 2025.06]** 중앙대학교 CECOM - React 멘토
@@ -12,19 +12,19 @@
 - **[2026.01 – 2026.02]** LG AIMERS 7기 - 머신러닝 교육 프로그램 수료
 - **[2026.09 – ]** ㈜클래스액트 현장실습 인턴
 
-### 🏆 Awards
+### Awards
 | 대회 / 기관 | 수상명 | 비고 |
 |---|---|---|
 | 2025 다학제융합 IoT 가전분야 캡스톤 디자인 | 창의ICT공과대학장상 · <br/>공과대학장상 | 청각장애인 안전알림 웨어러블 <br/>(특허 출원) |
 | 오픈소스SW·AI 딥러닝 해커톤 | 우수상 | Fake News Detection (MS-SE TextCNN) |
 | 2025학년도 생성형 AI(Generative AI) 모델 활용 경진대회 | 특별상 | 푸앙이 에코 챌린지 |
 
-### 🛠 Tech Stack
+### Tech Stack
 - **Frontend**: React, TypeScript, Next.js, Vite
 - **Backend**: FastAPI, Spring Boot, PostgreSQL, Redis
 - **AI/ML**: YOLOv8, YAMNet, Whisper, LangChain, RAG, DQN
 
-### 📫 Contact
+### Contact
 Email: wise_amy@naver.com
   
 <details>
