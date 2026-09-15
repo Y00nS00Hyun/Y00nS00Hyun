@@ -12,23 +12,23 @@
 - **[2026.01 – 2026.02]** LG AIMERS 7기 - 머신러닝 교육 프로그램 수료
 - **[2026.09 – ]** ㈜클래스액트 현장실습 인턴
 
-### 🏆 수상 경력
+### 🏆 Awards
 | 대회 / 기관 | 수상명 | 비고 |
 |---|---|---|
 | 2025 다학제융합 IoT 가전분야 캡스톤 디자인 (중앙대학교) | 창의ICT공과대학장상 · 공과대학장상 | 청각장애인 안전알림 웨어러블 (특허 출원) |
 | 오픈소스SW·AI 딥러닝 해커톤 | 우수상 | Fake News Detection (MS-SE TextCNN) |
 | 2025학년도 생성형 AI(Generative AI) 모델 활용 경진대회 | 특별상 | 푸양이 에코 챌린지 |
 
-### 🛠 기술 스택
+### 🛠 Tech Stack
 - **Frontend**: React, TypeScript, Next.js, Vite
 - **Backend**: FastAPI, Spring Boot, PostgreSQL, Redis
 - **AI/ML**: YOLOv8, YAMNet, Whisper, LangChain, RAG, DQN
 
-### 📫 연락처
-GitHub: Y00nS00Hyun
-
+### 📫 Contact
+Email: wise_amy@naver.com
+  
 <details>
-<summary>🎨 Soohyun's Github Decoration</summary>
+<summary>🎨 Soohyun's Github</summary>
 
 <div align = "center"> 
 
