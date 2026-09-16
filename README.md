@@ -5,7 +5,7 @@
 ### Experience & Activities
 - **[2024.04 – 2024.10]** Codeit 스프린트 프론트엔드 부트캠프 7기 수료
 - **[2024.09 – 2025.06]** Google Developer Groups (GDG) on Campus Chung-Ang University
-- **[2025.03 – 2025.06]** 중앙대학교 CECOM - React 멘토
+- **[2025.03 – 2025.06]** 중앙대학교 하드웨어 동아리 CECOM - React 멘토
 - **[2025.12 – 2026.06]** Intelligent Networking Lab (INL) 학부연구생
 - **[2026.01 – 2026.02]** LG AIMERS 7기 - 머신러닝 교육 프로그램 수료
 - **[2026.09 – ]** ㈜클래스액트 현장실습 인턴
