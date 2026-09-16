@@ -1,6 +1,4 @@
 
-### Hi there 👋
-
 ### Introduction
 - Software Engineering, B.S. @ Chung-Ang University (4th year)
   
