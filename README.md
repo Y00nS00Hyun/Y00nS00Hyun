@@ -1,6 +1,6 @@
 
 ### Introduction
-- Software Engineering, B.S. @ Chung-Ang University (4th year)
+- Software Engineering, B.S. @ Chung-Ang University
   
 ### Experience & Activities
 - **[2024.04 – 2024.10]** Codeit 스프린트 프론트엔드 부트캠프 7기 수료
