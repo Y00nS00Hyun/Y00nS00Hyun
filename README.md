@@ -1,5 +1,5 @@
 
-### Introduction
+### 👽 Introduction
 - Software Engineering, B.S. @ Chung-Ang University
   
 ### Experience & Activities
